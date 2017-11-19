@@ -2,6 +2,7 @@ hello
 what is your name
 how are she
 how are youha
+<<<<<<< HEAD
 nice
 very good
 very well
@@ -12,3 +13,6 @@ wo shi haah
 nishi
 haha hehe
 
+=======
+nice
+>>>>>>> parent of 96016d5... 红色
