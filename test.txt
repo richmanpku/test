@@ -1,6 +1,6 @@
 hello
 what is your name
-how are you
+how are she
 how are youha
 nice
 very good
@@ -10,4 +10,5 @@ haah
 hello
 wo shi haah
 nishi
-haha
+haha hehe
+
